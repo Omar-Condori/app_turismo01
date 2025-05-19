@@ -133,7 +133,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           ),
                         ),
                         Text(
-                          'Bienvenidos a Capachica',
+                          '"¡Bienvenidos a Capachica, Paraíso Turístico del Lago Titicaca!"',
                           style: TextStyle(
                             color: subtitleColor,
                             fontSize: 14,
